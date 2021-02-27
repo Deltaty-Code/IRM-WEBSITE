@@ -202,8 +202,8 @@ main {
   padding-bottom: 10px;
 }
 .text {
-  margin: 8px;
-  word-spacing: 1px;
+  margin: 10px;
+  word-spacing: 0.5px;
     text-align: justify;
   font-size: 1rem;
   color: rgb(65, 65, 65);
