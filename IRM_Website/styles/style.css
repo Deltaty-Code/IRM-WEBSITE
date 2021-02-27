@@ -28,8 +28,11 @@ body {
 
 /* loader */
 .loader-container {
-  display: grid;
-  place-items: center;
+/*   display: grid;
+  place-items: center; */
+  display:flex;
+  justify-content:center;
+  align-items: center;
   position: fixed;
   top: 0;
   left: 0;
@@ -202,7 +205,7 @@ main {
 }
 .text {
   margin: 20px;
-/*   text-align: left; */
+  text-align: left;
   font-size: 1rem;
   color: rgb(65, 65, 65);
 }
