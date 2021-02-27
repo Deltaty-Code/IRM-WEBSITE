@@ -30,9 +30,9 @@ body {
 .loader-container {
 /*   display: grid;
   place-items: center; */
-  display:flex;
+/*   display:flex;
   justify-content:center;
-  align-items: center;
+  align-items: center; */
   position: fixed;
   top: 0;
   left: 0;
