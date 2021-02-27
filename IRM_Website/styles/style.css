@@ -325,6 +325,6 @@ main {
     margin: 10px;
   }
 }
-@media(max-width:250px){
-  .text{font-size: 0.8rem;}
+@media(max-width:300px){
+  .text{font-size: .7rem;}
 }
