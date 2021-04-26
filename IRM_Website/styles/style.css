@@ -28,9 +28,8 @@ body {
 
 /* loader */
 .loader-container {
-  display:flex;
-  justify-content:center;
-  align-items:center;
+  display: grid;
+  place-items: center;
   position: fixed;
   top: 0;
   left: 0;
